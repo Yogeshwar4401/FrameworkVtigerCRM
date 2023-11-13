@@ -29,7 +29,7 @@ public class CountryCount {
 	  s.selectByIndex(count);
 		count++;
 	}
-	System.out.println(count);
+	  System.out.println(count);
 
 	}
 
